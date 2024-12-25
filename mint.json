@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Starter Kit",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "/logo/dark.png",
+    "light": "/logo/ll.png"
   },
   "favicon": "/favicon.svg",
   "colors": {
@@ -17,13 +17,13 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "name": "Asistență",
+      "url": "mailto:support@e-data.ro"
     }
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "url": "https://app.e-cabinet.ro"
   },
   "tabs": [
     {
@@ -55,6 +55,12 @@
         "introduction",
         "quickstart",
         "development"
+      ]
+    },
+    {
+      "group": "Recenzii",
+      "pages": [
+        "recenzii/intro"
       ]
     },
     {
