@@ -60,7 +60,8 @@
     {
       "group": "Recenzii",
       "pages": [
-        "recenzii/intro"
+        "recenzii/intro",
+        "recenzii/connect-domain"
       ]
     },
     {
