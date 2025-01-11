@@ -5,7 +5,7 @@
     "dark": "/logo/dark.png",
     "light": "/logo/ll.png"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/logo/dark.svg",
   "colors": {
     "primary": "#2563eb",
     "light": "#bfdbfe",
@@ -60,8 +60,8 @@
     {
       "group": "Recenzii",
       "pages": [
-        "recenzii/intro",
-        "recenzii/connect-domain"
+        "recenzii/listă-recenzii",
+        "recenzii/studio"
       ]
     },
     {
